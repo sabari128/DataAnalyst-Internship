@@ -1,0 +1,43 @@
+# 🧹 Data Cleaning and Preprocessing – Task 1
+
+## 📄 Objective
+Clean and prepare a raw dataset by handling missing values, duplicates, inconsistent formats, and incorrect data types.
+
+---
+
+## 🧰 Tools Used
+- Python (Pandas, NumPy)
+- Jupyter Notebook / Google Colab
+
+---
+
+## 📊 Dataset Used
+**Dataset:** Sales Data (Kaggle)
+
+## ⚙️ Steps Involved
+1. **Load Dataset** – Import CSV file using Pandas.
+2. **Check Missing Values** – Identify and handle nulls with mean/median/mode.
+3. **Remove Duplicates** – Use `drop_duplicates()` to keep unique records.
+4. **Standardize Text** – Convert text (e.g., Gender) to lowercase.
+5. **Rename Columns** – Make names lowercase and replace spaces with underscores.
+6. **Fix Data Types** – Ensure integers, floats, and dates are in proper format.
+7. **Save Cleaned Data** – Export the final cleaned dataset.
+
+---
+
+## 🧾 Summary of Changes
+| Step | Issue | Action | Result |
+|------|--------|---------|---------|
+| 1 | Missing values | Filled with mean/median | No nulls |
+| 2 | Duplicates | Removed | Unique data |
+| 3 | Text inconsistency | Standardized | Clean format |
+| 4 | Column names | Renamed | Consistent naming |
+| 5 | Data types | Fixed | Correct formats |
+
+---
+## 📁 Deliverables
+- Cleaned dataset (`cleaned_data/cleaned_mall_customers.csv`)
+- Python notebook (`task1.ipynb`)
+
+
+

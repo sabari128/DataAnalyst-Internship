@@ -1,0 +1,25 @@
+Transaction ID,Customer ID,Category,Item,Price Per Unit,Quantity,Total Spent,Payment Method,Location,Transaction Date,Discount Applied
+TXN_6867343,CUST_09,Patisserie,Item_10_PAT,18.5,10,185,Digital Wallet,Online,08-04-2024,TRUE
+TXN_3731986,CUST_22,Milk Products,Item_17_MILK,29,9,261,Digital Wallet,Online,23-07-2023,TRUE
+TXN_9303719,CUST_02,Butchers,Item_12_BUT,21.5,2,43,Credit Card,Online,05-10-2022,FALSE
+TXN_9458126,CUST_06,Beverages,Item_16_BEV,27.5,9,247.5,Credit Card,Online,07-05-2022,
+TXN_4575373,CUST_05,Food,Item_6_FOOD,12.5,7,87.5,Digital Wallet,Online,02-10-2022,FALSE
+TXN_7482416,CUST_09,Patisserie,,,10,200,Credit Card,Online,30-11-2023,
+TXN_3652209,CUST_07,Food,Item_1_FOOD,5,8,40,Credit Card,In-store,10-06-2023,TRUE
+TXN_1372952,CUST_21,Furniture,,33.5,,,Digital Wallet,In-store,02-04-2024,TRUE
+TXN_9728486,CUST_23,Furniture,Item_16_FUR,27.5,1,27.5,Credit Card,In-store,26-04-2023,FALSE
+TXN_2722661,CUST_25,Butchers,Item_22_BUT,36.5,3,109.5,Cash,Online,14-03-2024,FALSE
+TXN_8776416,CUST_22,Butchers,Item_3_BUT,8,9,72,Cash,In-store,14-12-2024,TRUE
+TXN_5422631,CUST_09,Milk Products,,,8,52,Digital Wallet,In-store,12-01-2025,TRUE
+TXN_5874772,CUST_23,Food,Item_2_FOOD,6.5,7,45.5,Cash,Online,09-09-2023,TRUE
+TXN_4413070,CUST_14,Patisserie,Item_24_PAT,39.5,6,237,Digital Wallet,In-store,20-05-2022,FALSE
+TXN_2490363,CUST_09,Milk Products,Item_16_MILK,27.5,2,55,Digital Wallet,Online,22-05-2022,
+TXN_1809665,CUST_14,Beverages,,24.5,,,Credit Card,In-store,11-05-2022,
+TXN_7563311,CUST_23,Patisserie,Item_17_PAT,29,8,232,Cash,Online,16-11-2024,TRUE
+TXN_9634894,CUST_15,Milk Products,,,10,275,Digital Wallet,Online,17-04-2022,
+TXN_4396807,CUST_17,Electric household essentials,Item_13_EHE,23,1,23,Digital Wallet,In-store,07-02-2022,FALSE
+TXN_4206593,CUST_01,Furniture,,35,,,Digital Wallet,Online,13-01-2025,FALSE
+TXN_9939063,CUST_14,Beverages,Item_7_BEV,14,9,126,Digital Wallet,In-store,14-01-2024,
+TXN_8685338,CUST_15,Milk Products,,,3,105,Credit Card,In-store,29-10-2023,
+TXN_6547964,CUST_10,Electric household essentials,Item_4_EHE,9.5,7,66.5,Cash,In-store,15-08-2022,
+TXN_3314099,CUST_04,Food,Item_10_FOOD,18.5,1,18.5,Cash,Online,30-09-2023,FALSE
