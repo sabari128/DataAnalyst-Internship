@@ -1,0 +1,25 @@
+transaction_id,customer_id,category,item,price_per_unit,quantity,total_spent,payment_method,location,transaction_date,discount_applied
+txn_6867343,cust_09,patisserie,item_10_pat,18.5,10,185.0,digital wallet,online,2024-04-08,1.0
+txn_3731986,cust_22,milk products,item_17_milk,29.0,9,261.0,digital wallet,online,2023-07-23,1.0
+txn_9303719,cust_02,butchers,item_12_but,21.5,2,43.0,credit card,online,2022-10-05,0.0
+txn_9458126,cust_06,beverages,item_16_bev,27.5,9,247.5,credit card,online,2022-05-07,0.5
+txn_4575373,cust_05,food,item_6_food,12.5,7,87.5,digital wallet,online,2022-10-02,0.0
+txn_7482416,cust_09,patisserie,item_10_food,22.325,10,200.0,credit card,online,2023-11-30,0.5
+txn_3652209,cust_07,food,item_1_food,5.0,8,40.0,credit card,in-store,2023-06-10,1.0
+txn_1372952,cust_21,furniture,item_10_food,33.5,6,119.45238095238095,digital wallet,in-store,2024-04-02,1.0
+txn_9728486,cust_23,furniture,item_16_fur,27.5,1,27.5,credit card,in-store,2023-04-26,0.0
+txn_2722661,cust_25,butchers,item_22_but,36.5,3,109.5,cash,online,2024-03-14,0.0
+txn_8776416,cust_22,butchers,item_3_but,8.0,9,72.0,cash,in-store,2024-12-14,1.0
+txn_5422631,cust_09,milk products,item_10_food,22.325,8,52.0,digital wallet,in-store,2025-01-12,1.0
+txn_5874772,cust_23,food,item_2_food,6.5,7,45.5,cash,online,2023-09-09,1.0
+txn_4413070,cust_14,patisserie,item_24_pat,39.5,6,237.0,digital wallet,in-store,2022-05-20,0.0
+txn_2490363,cust_09,milk products,item_16_milk,27.5,2,55.0,digital wallet,online,2022-05-22,0.5
+txn_1809665,cust_14,beverages,item_10_food,24.5,6,119.45238095238095,credit card,in-store,2022-05-11,0.5
+txn_7563311,cust_23,patisserie,item_17_pat,29.0,8,232.0,cash,online,2024-11-16,1.0
+txn_9634894,cust_15,milk products,item_10_food,22.325,10,275.0,digital wallet,online,2022-04-17,0.5
+txn_4396807,cust_17,electric household essentials,item_13_ehe,23.0,1,23.0,digital wallet,in-store,2022-02-07,0.0
+txn_4206593,cust_01,furniture,item_10_food,35.0,6,119.45238095238095,digital wallet,online,2025-01-13,0.0
+txn_9939063,cust_14,beverages,item_7_bev,14.0,9,126.0,digital wallet,in-store,2024-01-14,0.5
+txn_8685338,cust_15,milk products,item_10_food,22.325,3,105.0,credit card,in-store,2023-10-29,0.5
+txn_6547964,cust_10,electric household essentials,item_4_ehe,9.5,7,66.5,cash,in-store,2022-08-15,0.5
+txn_3314099,cust_04,food,item_10_food,18.5,1,18.5,cash,online,2023-09-30,0.0
