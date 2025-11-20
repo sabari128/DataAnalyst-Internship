@@ -3,7 +3,7 @@
 **Dataset source:** Kaggle Titanic competition — `train.csv` (https://www.kaggle.com/c/titanic/data).  
 
 ## Contents
-- `Task5_EDA.ipynb` — Jupyter Notebook containing a full EDA workflow:
+- `EDA.ipynb` — Jupyter Notebook containing a full EDA workflow:
   - Data loading & overview
   - Data cleaning & preprocessing
   - Univariate, bivariate, and multivariate analysis
