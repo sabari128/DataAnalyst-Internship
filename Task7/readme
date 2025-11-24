@@ -1,0 +1,27 @@
+# Task 7 – Sales Summary from SQLite using Python
+Extract sales data from an SQLite database using Python, run SQL queries, and visualize the revenue using Matplotlib.
+
+---
+## 📌 Objective
+Use SQL inside Python to:
+- Read data from a SQLite database
+- Summarize sales information using SQL queries
+- Display results using print statements
+- Visualize revenue using a bar chart
+
+---
+
+## 🛠 Tools Used
+- Python
+- sqlite3
+- pandas
+- matplotlib
+
+---
+
+## 🚀 How to Run the Project
+
+1. Install dependencies:
+
+pandas
+matplotlib
