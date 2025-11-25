@@ -1,0 +1,40 @@
+Order ID,Order Date,State,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+ORD-1000,13-04-2022,Texas,East,Technology,Storage,926.4,2,0.25,43.08
+ORD-1001,12-03-2023,Georgia,Central,Technology,Accessories,1196.37,9,0.29,244.55
+ORD-1002,15-12-2022,New York,Central,Office Supplies,Accessories,1899.74,9,0.25,320.41
+ORD-1003,28-09-2022,Texas,West,Office Supplies,Art,542.43,4,0,-11.6
+ORD-1004,17-04-2022,Texas,Central,Technology,Phones,750.54,4,0.19,59
+ORD-1005,13-03-2022,Texas,South,Technology,Phones,789.75,6,0.02,-32.58
+ORD-1006,08-07-2022,California,Central,Office Supplies,Tables,1230.8,6,0.08,116.02
+ORD-1007,21-01-2022,California,South,Furniture,Storage,745.63,1,0.02,110.9
+ORD-1008,13-04-2022,California,West,Technology,Accessories,1090.35,9,0.18,-15.75
+ORD-1009,02-05-2022,New York,West,Office Supplies,Chairs,1574.49,2,0.21,57.73
+ORD-1010,12-04-2023,Illinois,West,Furniture,Binders,1425.5,5,0.03,98.86
+ORD-1011,03-08-2022,Georgia,West,Technology,Phones,920.42,9,0.12,207.89
+ORD-1012,27-11-2022,Ohio,West,Furniture,Binders,1735.22,4,0.14,430.29
+ORD-1013,04-04-2023,Texas,South,Office Supplies,Binders,1138.37,3,0.11,-41.58
+ORD-1014,29-03-2022,Georgia,South,Technology,Tables,1102.82,7,0.04,196.64
+ORD-1015,08-01-2023,Texas,West,Furniture,Accessories,116.67,6,0.13,7.18
+ORD-1016,10-04-2022,New York,Central,Technology,Phones,1974.05,8,0.23,133.72
+ORD-1017,26-12-2022,Texas,East,Furniture,Binders,289.79,3,0.02,51.08
+ORD-1018,01-06-2022,California,West,Office Supplies,Phones,500.71,5,0.02,112.92
+ORD-1019,11-05-2022,Ohio,Central,Office Supplies,Chairs,150.81,4,0.11,35.48
+ORD-1020,30-05-2022,Florida,East,Technology,Tables,1298.01,4,0.28,159.83
+ORD-1021,05-11-2022,Texas,West,Furniture,Chairs,488.17,4,0.2,27.89
+ORD-1022,15-09-2022,Georgia,West,Technology,Phones,401.02,8,0.2,74.7
+ORD-1023,10-12-2022,California,South,Technology,Art,222.68,6,0.11,5.63
+ORD-1024,07-05-2023,Florida,East,Furniture,Phones,251.45,3,0.18,29.98
+ORD-1025,18-02-2023,Ohio,East,Furniture,Accessories,1190.11,5,0,68.52
+ORD-1026,21-10-2022,Florida,Central,Furniture,Binders,1392.01,6,0.19,204.61
+ORD-1027,21-01-2023,California,South,Office Supplies,Binders,824.89,5,0.27,18.25
+ORD-1028,11-07-2022,Illinois,South,Technology,Chairs,985.8,6,0.18,7.37
+ORD-1029,20-03-2023,Illinois,South,Technology,Tables,1387.64,8,0.26,312.87
+ORD-1030,04-10-2022,Florida,South,Office Supplies,Art,83.89,7,0.22,-1.63
+ORD-1031,10-06-2022,New York,East,Furniture,Storage,680.1,5,0.04,69.23
+ORD-1032,05-04-2023,Georgia,East,Office Supplies,Binders,1947.54,6,0.27,31.66
+ORD-1033,10-11-2022,Georgia,West,Office Supplies,Accessories,1181.22,4,0.02,-45.27
+ORD-1034,22-01-2022,Florida,West,Office Supplies,Chairs,545.74,9,0.16,-21.39
+ORD-1035,10-09-2022,Texas,South,Technology,Chairs,1067.37,4,0.04,2.74
+ORD-1036,24-08-2022,Texas,South,Office Supplies,Storage,718.17,1,0,150.84
+ORD-1037,11-12-2022,Georgia,South,Technology,Accessories,1087.88,7,0.13,37.8
+ORD-1038,18-02-2022,Georgia,West,Technology,Tables,295.2,7,0.09,69.41
